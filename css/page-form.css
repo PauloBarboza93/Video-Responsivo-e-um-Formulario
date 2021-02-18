@@ -1,0 +1,107 @@
+body {
+
+    height:100%;
+    width:100%;
+    background-color: rgb(240, 248, 255);
+
+}
+
+main {
+
+    height: 100%;
+    width:80%;
+    font-family: 'Roboto', sans-serif;
+    float: left;
+    margin: 0% 0% 0% 10%;
+    padding-bottom: 0%;
+    justify-content: center;
+    background-color:rgb(215, 219, 219);
+    box-shadow: 0.5em 0.5em 1em rgb(0, 0, 0);
+    border-radius: 1em;
+
+}
+
+#title {
+
+    font-family: 'Roboto', sans-serif;
+    color:#380b61;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 1.5em;
+}
+
+div.campo {
+
+    margin-left: 1em;
+   margin-bottom: 1em;
+
+}
+
+.endereco {
+    
+    margin-left: 1em;
+}
+
+.containerlvl {
+
+    margin-top: 1em;
+    margin-left: 1em;
+    margin-bottom: 1em;
+}
+
+.PS, .CV, .containerComent {
+
+    margin-left: 1em;
+}
+
+.input-group {
+
+    margin-left: 1em;
+    margin-right: 97em;
+}
+
+.CV {
+
+    margin-top: 1em;
+}
+
+.containerComent {
+
+    margin-top: 1em;
+}
+
+.box {
+
+    margin-left: 1em;
+    margin-right: 53em;
+}
+
+.btn-primary {
+
+    margin-top: 2em;
+    margin-left: 1em;
+    margin-bottom: 2em;
+}
+
+select, button, input, textarea {
+
+    border-radius: 5px;
+}
+
+.campo input[type="text"], .campo input[type="email"], .campo input[type="tel"], .campo input[type="radio"], .campo input[type="checkbox"]{
+
+    margin: 0.3em;
+
+}
+
+footer { 
+
+    font-family: 'Roboto', sans-serif;
+    clear:both; 
+    width:50%; 
+    margin:0 auto; 
+    font-size:0.95em; 
+    text-align:center; 
+    background-color:#ECECEC; 
+    padding:5px 
+}
